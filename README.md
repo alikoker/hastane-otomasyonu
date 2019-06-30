@@ -1,8 +1,3 @@
----
-
-
----
-
 <p><strong>Bir hastanedeki hastaların bilgilerini ve muayene işlemlerini tutan, bu kayıtlarda arama yapabilen ve kayıtlarla ilgili rapor oluşturan konsol uygulaması.</strong></p>
 <p><img src="https://cdn-images-1.medium.com/max/1500/1*dn3BipjQgnH4Cv3cQai2bQ.jpeg" alt=""></p>
 <p><strong>Projenin Özellikleri</strong></p>
